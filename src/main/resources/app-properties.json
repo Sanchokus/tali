@@ -1,0 +1,10 @@
+{
+  "addresses": [
+    "http://google.com",
+    "http://apple.com",
+    "http://some-other-site.com"
+  ],
+  "cron": "* * 8,20 * * *",
+  "adminUserName": "ADMINLOGIN",
+  "adminPassword": "ADMINPASSWORD"
+}
