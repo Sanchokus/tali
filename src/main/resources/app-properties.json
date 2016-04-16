@@ -4,7 +4,7 @@
     "http://apple.com",
     "http://some-other-site.com"
   ],
-  "cron": "* * 8,20 * * *",
+  "cron": "0 0 8,20 * * *",
   "adminUserName": "ADMINLOGIN",
   "adminPassword": "ADMINPASSWORD"
 }
